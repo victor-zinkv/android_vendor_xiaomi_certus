@@ -21,8 +21,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/certus/proprietary/vendor/bin/ccci_mdinit:$(TARGET_COPY_OUT_VENDOR)/bin/ccci_mdinit \
     vendor/xiaomi/certus/proprietary/vendor/bin/ccci_rpcd:$(TARGET_COPY_OUT_VENDOR)/bin/ccci_rpcd \
     vendor/xiaomi/certus/proprietary/vendor/bin/charon:$(TARGET_COPY_OUT_VENDOR)/bin/charon \
-    vendor/xiaomi/certus/proprietary/vendor/bin/dconfig:$(TARGET_COPY_OUT_VENDOR)/bin/dconfig \
-    vendor/xiaomi/certus/proprietary/vendor/bin/dtc_vendor:$(TARGET_COPY_OUT_VENDOR)/bin/dtc_vendor \
     vendor/xiaomi/certus/proprietary/vendor/bin/eeprom_test:$(TARGET_COPY_OUT_VENDOR)/bin/eeprom_test \
     vendor/xiaomi/certus/proprietary/vendor/bin/em_hidl:$(TARGET_COPY_OUT_VENDOR)/bin/em_hidl \
     vendor/xiaomi/certus/proprietary/vendor/bin/epdg_wod:$(TARGET_COPY_OUT_VENDOR)/bin/epdg_wod \
